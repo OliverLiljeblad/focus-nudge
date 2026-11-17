@@ -129,7 +129,3 @@ Prior work used gaze tracking to detect mind wandering or delivered notification
 - [Name]
 
 *HCI course project, Albright College, Fall 2026.*
-
-## License
-
-[Choose a license, e.g. MIT]
