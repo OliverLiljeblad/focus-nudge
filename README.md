@@ -123,12 +123,12 @@ Prior work used gaze tracking to detect mind wandering or delivered notification
 
 ## Team
 
-- [Name]
+- Oliver Liljeblad
 - [Name]
 - [Name]
 - [Name]
 
-*HCI course project, [University], Fall 2026.*
+*HCI course project, Albright College, Fall 2026.*
 
 ## License
 
