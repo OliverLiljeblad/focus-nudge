@@ -6,6 +6,7 @@ Focus Nudge is a web application and HCI research study that tests whether a gen
 
 > **Status:** In development. Study planned for November 2026.
 
+Lovable Demo: https://nudge-notes-study-journal.lovable.app/ 
 ---
 
 ## Research Question
